@@ -8,8 +8,4 @@ Third paragraph!
 
 Yet another para!
 
-More!
-
-OR
-
-Less!
+Much less.
